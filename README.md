@@ -1,5 +1,5 @@
 ### Hi, I'm Defran Fransisco 👋
 
-- 🔭 I’m a Student 
-- 🌱 I’m currently learning about Data Analysis and Data Science
+- 🔭 Just an ordinary guy from third world country
+- 🌱 I’m just a guys who love to code
 - 😄 Pronouns: He/His
